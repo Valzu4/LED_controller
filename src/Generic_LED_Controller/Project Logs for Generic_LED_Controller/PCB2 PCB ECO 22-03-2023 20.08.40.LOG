@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=USB+ Pin=J2-1
+Added Pin To Net: NetName=USB_D- Pin=J2-2
+Added Pin To Net: NetName=USB_D+ Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-Shell
+Added Pin To Net: NetName=GND Pin=J2-Shell
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Member To Class: ClassName=Sheet2 Member=Component J2 61400416021
